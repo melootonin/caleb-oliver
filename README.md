@@ -23,6 +23,8 @@ $\color{#594F4B}{\text{𝗼𝗹𝗶𝘃𝗲𝗿'𝘀 profile}}$
 
 $\color{#4F3F3B}{\text{ʳᵉᵐᶦⁿᵈᵉʳ, ᵗʰᶦˢ ᶦˢ ᵃ ʳᵖ ᵖʳᵒᶠᶦˡᵉ}}$
 
+
+
 <details>
 <summary>$\color{#77737E}{\text{more about oliver}}$</summary>
 
@@ -38,7 +40,10 @@ $\color{#4F3F3B}{\text{bisexual  ་།†}}$
 
 $\color{#594F4B}{\text{loner/bully vic ་།†}}$ 
 
-$\color{#4F3F3B}{\text{google doc wip!!! ་།†}}$ 
+$\color{#594F4B}{\text{infp ་།†}}$ 
+
+$\color{#594F4B}{\text{google doc wip!!! ་།†}}$ 
+
 
 
 ---
@@ -104,7 +109,9 @@ $\color{#966B39}{\text{golden boy/bully ་།†}}$
 
 $\color{#B08C61}{\text{religious/catholic ་།†}}$ 
 
-$\color{#966B39}{\text{google doc wip!!! ་།†}}$ 
+$\color{#966B39}{\text{esfj ་།†}}$ 
+
+$\color{#B08C61}{\text{google doc wip!!! ་།†}}$ 
 
 ---
 
