@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="300" height="45" alt="image" src="https://github.com/user-attachments/assets/9137e53f-542d-455e-b257-e17327cdabea" />
+<img width="199" height="46" alt="image" src="https://github.com/user-attachments/assets/10ebe6b1-c29f-4014-9920-99b8749d93f2" />
 
 <table>
 <tr>
@@ -70,11 +70,23 @@ $\color{#594F4B}{\text{google doc wip!!! ་།†}}$
 </tr>
 </table>
 
+<img width="199" height="46" alt="image" src="https://github.com/user-attachments/assets/10ebe6b1-c29f-4014-9920-99b8749d93f2" />
 
+<table>
+<tr>
+<td align="center">
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+
+
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img width="169" height="36" alt="image" src="https://github.com/user-attachments/assets/10ebe6b1-c29f-4014-9920-99b8749d93f2" />
+  <img width="198" height="30" alt="image" src="https://github.com/user-attachments/assets/2060e260-96e2-4a04-ab15-75345b7298eb" />
+
 
 <table>
 <tr>
@@ -92,8 +104,7 @@ $\color{#594F4B}{\text{google doc wip!!! ་།†}}$
 
 ---
 
-<img width="180" height="25" alt="image" src="https://github.com/user-attachments/assets/2060e260-96e2-4a04-ab15-75345b7298eb" />
-
+<img width="189" height="20" alt="image" src="https://github.com/user-attachments/assets/dec3745e-c6ad-42e6-8a2e-727e52c6899f" />
 
 $\color{#B08C61}{\text{𝗰𝗮𝗹𝗲𝗯'𝘀 profile}}$
 
@@ -128,8 +139,7 @@ $\color{#B08C61}{\text{google doc wip!!! ་།†}}$
 
 </details>
 
-<img width="180" height="25" alt="image" src="https://github.com/user-attachments/assets/2060e260-96e2-4a04-ab15-75345b7298eb" />
-
+<img width="189" height="20" alt="image" src="https://github.com/user-attachments/assets/1d5edc7c-3963-4ee4-837a-f1236e37cd7e" />
 
 ---
 
@@ -138,8 +148,8 @@ $\color{#B08C61}{\text{google doc wip!!! ་།†}}$
 </td>
 </tr>
 </table>
+  <img width="198" height="30" alt="image" src="https://github.com/user-attachments/assets/2060e260-96e2-4a04-ab15-75345b7298eb" />
 
-<img width="300" height="45" alt="image" src="https://github.com/user-attachments/assets/9137e53f-542d-455e-b257-e17327cdabea" />
 
 
 <td align="center">
