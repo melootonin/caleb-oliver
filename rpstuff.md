@@ -28,7 +28,7 @@ $\color{#4F3F3B}{\text{ʳᵉᵐᶦⁿᵈᵉʳ, ᵗʰᶦˢ ᶦˢ ᵃ ʳᵖ ᵖʳ�
 
 ---
 
-$\color{#594F4B}{\text{oliver or oli  ་།†}}$ 
+$\color{#594F4B}{\text{oliver or ollie  ་།†}}$ 
 
 $\color{#4F3F3B}{\text{age depending on au  ་།†}}$ 
 
@@ -36,7 +36,10 @@ $\color{#594F4B}{\text{male ་།†}}$
 
 $\color{#4F3F3B}{\text{bisexual  ་།†}}$ 
 
-$\color{#594F4B}{\text{google doc wip!!! ་།†}}$ 
+$\color{#594F4B}{\text{loner/bully vic ་།†}}$ 
+
+$\color{#4F3F3B}{\text{google doc wip!!! ་།†}}$ 
+
 
 ---
 
@@ -77,7 +80,7 @@ $\color{#594F4B}{\text{google doc wip!!! ་།†}}$
 
 ---
 
-<img width="180" height="25" alt="image" src="https://github.com/user-attachments/assets/5ebcc3cd-b5ed-4dbd-9bf8-95b69a13b405" />
+<img width="180" height="25" alt="image" src="https://github.com/user-attachments/assets/2060e260-96e2-4a04-ab15-75345b7298eb" />
 
 
 $\color{#B08C61}{\text{𝗰𝗮𝗹𝗲𝗯'𝘀 profile}}$
@@ -89,15 +92,19 @@ $\color{#8D704E}{\text{ʳᵉᵐᶦⁿᵈᵉʳ, ᵗʰᶦˢ ᶦˢ ᵃ ʳᵖ ᵖʳ�
 
 ---
 
-$\color{#594F4B}{\text{oliver or oli  ་།†}}$ 
+$\color{#966B39}{\text{caleb or c  ་།†}}$ 
 
-$\color{#4F3F3B}{\text{age depending on au  ་།†}}$ 
+$\color{#B08C61}{\text{age depending on au  ་།†}}$ 
 
-$\color{#594F4B}{\text{male ་།†}}$ 
+$\color{#966B39}{\text{male ་།†}}$ 
 
-$\color{#4F3F3B}{\text{bisexual  ་།†}}$ 
+$\color{#B08C61}{\text{closeted bisexual  ་།†}}$ 
 
-$\color{#594F4B}{\text{google doc wip!!! ་།†}}$ 
+$\color{#966B39}{\text{golden boy/bully ་།†}}$ 
+
+$\color{#B08C61}{\text{religious/catholic ་།†}}$ 
+
+$\color{#966B39}{\text{google doc wip!!! ་།†}}$ 
 
 ---
 
@@ -107,7 +114,7 @@ $\color{#594F4B}{\text{google doc wip!!! ་།†}}$
 
 </details>
 
-<img width="180" height="25" alt="image" src="https://github.com/user-attachments/assets/5ebcc3cd-b5ed-4dbd-9bf8-95b69a13b405" />
+<img width="180" height="25" alt="image" src="https://github.com/user-attachments/assets/2060e260-96e2-4a04-ab15-75345b7298eb" />
 
 
 ---
