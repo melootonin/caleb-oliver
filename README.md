@@ -1,4 +1,8 @@
+
+
 <div align="center">
+
+<img width="300" height="45" alt="image" src="https://github.com/user-attachments/assets/9137e53f-542d-455e-b257-e17327cdabea" />
 
 <table>
 <tr>
@@ -20,6 +24,7 @@
 
 
 $\color{#594F4B}{\text{𝗼𝗹𝗶𝘃𝗲𝗿'𝘀 profile}}$
+
 
 $\color{#4F3F3B}{\text{ʳᵉᵐᶦⁿᵈᵉʳ, ᵗʰᶦˢ ᶦˢ ᵃ ʳᵖ ᵖʳᵒᶠᶦˡᵉ}}$
 
@@ -68,6 +73,8 @@ $\color{#594F4B}{\text{google doc wip!!! ་།†}}$
 
 
 <div align="center">
+
+<img width="169" height="36" alt="image" src="https://github.com/user-attachments/assets/10ebe6b1-c29f-4014-9920-99b8749d93f2" />
 
 <table>
 <tr>
@@ -132,5 +139,10 @@ $\color{#B08C61}{\text{google doc wip!!! ་།†}}$
 </tr>
 </table>
 
+<img width="300" height="45" alt="image" src="https://github.com/user-attachments/assets/9137e53f-542d-455e-b257-e17327cdabea" />
+
+
 <td align="center">
+
+
 
