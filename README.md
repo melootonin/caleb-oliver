@@ -15,8 +15,7 @@
 
 ---
 
-
-<img width="168" height="168" alt="pony-town-✦ always--lie-4x" src="https://github.com/user-attachments/assets/73443d65-5c77-4c96-8774-aa24d95f0d4e" />
+pfp wip
 
 ---
 
@@ -100,7 +99,7 @@ $\color{#594F4B}{\text{google doc wip!!! ་།†}}$
 ---
 
 
-<img width="172" height="180" alt="pony-town-✦ for all of time--sit-toy178-4x" src="https://github.com/user-attachments/assets/e9e8089b-2bc5-4b8b-aebd-5d25045eac6f" />
+pfp wip
 
 ---
 
